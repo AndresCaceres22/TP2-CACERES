@@ -1,0 +1,13 @@
+C:\Users\ACaceres\source\repos\articulos\articulos\bin\Debug\articulos.exe.config
+C:\Users\ACaceres\source\repos\articulos\articulos\bin\Debug\articulos.exe
+C:\Users\ACaceres\source\repos\articulos\articulos\bin\Debug\articulos.pdb
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.csprojAssemblyReference.cache
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.Form1.resources
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.Properties.Resources.resources
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.csproj.GenerateResource.cache
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.csproj.CoreCompileInputs.cache
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.exe
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.pdb
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.ventanaprincipal.resources
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.listadoarticulos.resources
+C:\Users\ACaceres\source\repos\articulos\articulos\obj\Debug\articulos.alta.resources
